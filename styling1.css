@@ -1,0 +1,49 @@
+h1 {
+        color:red;
+}
+
+p { 
+    background-color: blanchedalmond;
+}
+
+.aueb-text {
+    background-color: blue;
+}
+.aueb-text2 {
+    background-color: gray;
+}
+
+/* .aueb-text2 {
+    background-color: gray;
+
+}*/
+    ul > li {
+        color: blue
+    }
+
+.DH span {
+    background-color: violet;
+}
+
+input [type="text"] {
+    background-color: aquamarine;
+}
+
+input[type="button"] {
+    background-color: rgb(255, 0, 170);
+}
+
+table {
+    border-collapse: collapse;
+    width: 500 px;
+
+}
+table, th, td {
+    border: 5px solid black
+
+}
+ td {
+    text-align: center;
+ }
+
+ @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200..900&display=swap');
